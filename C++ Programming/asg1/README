@@ -1,0 +1,22 @@
+Galen Turoci
+CSE 111 Fall 2019
+Assignment 1
+
+Files submitted for this assignment:
+Makefile
+README
+bigint.cpp
+bigint.h
+debug.cpp
+debug.h
+iterstack.h
+libfns.cpp
+libfns.h
+main.cpp
+relops.h
+scanner.cpp
+scanner.h
+ubigint.cpp
+ubigint.h
+util.cpp
+util.h

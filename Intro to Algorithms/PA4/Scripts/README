@@ -1,0 +1,20 @@
+Galen Turoci
+CMPS101
+PA5
+
+Files Submitted:
+README
+Makefile
+List.c
+List.h
+Graph.h
+Graph.c
+GraphTest.c
+FindComponents.c
+
+For Graph.c, Graph.h, GraphTest.c, List.c, and List.h, I just copied programs
+of the same name from previous programming assignments and modified them (if
+necessary) to fit within the parameters of this assignment.
+
+For DFS-Visit, I created a private helper function which I passed necessary
+parameters to and from.
