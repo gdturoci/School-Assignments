@@ -1,0 +1,14 @@
+Galen Turoci
+gturoci
+CMPS 12M
+March 7th, 2018
+This README lists all the files I am submitting for this assignment.
+README
+Files submitted:
+README.txt
+Makefile
+Dictionary.java
+DictionaryClient.java
+KeyNotFoundException.java
+DuplicateKeyException.java
+DictionaryInterface.java

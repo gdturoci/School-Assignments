@@ -1,0 +1,13 @@
+Galen Turoci
+gturoci
+CMPS 12M
+March 8th, 2018
+This README lists all the files I am submitting for this assignment.
+README
+Files submitted:
+README
+Dictionary.c
+Dictionary.h
+DictionaryTest.c
+DictionaryClient.c
+Makefile

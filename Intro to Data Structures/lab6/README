@@ -1,0 +1,14 @@
+Galen Turoci
+gturoci
+CMPS 12M
+February 23rd, 2018
+This README lists all the files I am submitting for this assignment.
+README
+Files submitted:
+README
+Makefile
+List.java
+ListTest.java
+ListInterface.java
+ListIndexOutOfBoundsException.java
+ListClient.java

@@ -1,0 +1,15 @@
+Galen Turoci
+gturoci
+CMPS 12B
+February 20th, 2018
+This README lists all the files I am submitting for this assignment.
+File name: README
+Files submitted:
+README
+Simulation.java
+QueueInterface.java
+QueueEmptyException.java
+Queue.java
+QueueTest.java
+Job.java
+Makefile
