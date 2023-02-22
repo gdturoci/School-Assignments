@@ -1,8 +1,7 @@
 #include <cs50.h>
 #include <stdio.h>
 
-int main(void)
-{
+int main(void) {
     //Prompt for start size
     int start_pop = 0;
     while (start_pop < 9) {
